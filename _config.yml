@@ -3,7 +3,7 @@ title:              Portfolio Template
 email:              sriram.schelbert@gmail.com
 description:        "Sriram's Portfolio"
 url:                "http://localhost:4000"
-baseurl:            /msr-student-template
+baseurl:            /portfolio-template
 
 # File structure settings
 image_path:         /public/images
