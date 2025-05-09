@@ -6,12 +6,12 @@ image: http://unsplash.it/400?random
 ---
 
 ## Overview
-I am a computer science student at Pitt.
+I am a research assistant within the Intraoperative Neuromonitoring Lab within the Department of Neurophysiology at UPMC Presbytarian Hospital.
 
 ### Research interests
-* Magic the gathering
-* Racecars
-* The sun
+* Artificial Intelligence
+* Neuroscience
+* Computational Neuroscience
 
 
 
